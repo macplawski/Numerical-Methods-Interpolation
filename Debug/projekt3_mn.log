@@ -1,0 +1,7 @@
+﻿  projekt3_mn.cpp
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 3\intrerpolacje\projekt3_mn\projekt3_mn.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 3\intrerpolacje\projekt3_mn\projekt3_mn.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 3\intrerpolacje\projekt3_mn\projekt3_mn.cpp(361): warning C4101: 'ostatni': unreferenced local variable
+c:\users\macpl\desktop\studia\4 semestr\moje\metody numeryczne\projekt\projekt 3\intrerpolacje\projekt3_mn\projekt3_mn.cpp(358): warning C4101: 'wyniki': unreferenced local variable
+  projekt3_mn.vcxproj -> C:\Users\macpl\Desktop\studia\4 semestr\Moje\Metody numeryczne\Projekt\Projekt 3\intrerpolacje\projekt3_mn\Debug\projekt3_mn.exe
+  projekt3_mn.vcxproj -> C:\Users\macpl\Desktop\studia\4 semestr\Moje\Metody numeryczne\Projekt\Projekt 3\intrerpolacje\projekt3_mn\Debug\projekt3_mn.pdb (Full PDB)
